@@ -33,7 +33,7 @@ This repo contain all my documentation of the  "VSD Open On-Chip Clock Multiplie
 - [Acknowlegment](#acknowlegment)
 - [References](#references)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 # Introduction
 The phase locked loop take in a signal to which it locks and can then output this signal from its own internal VCO. At first sight this may not appear particularly useful, but with a little ingenuity, it is possible to develop a large number of phase locked loop applications.
