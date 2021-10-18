@@ -51,6 +51,20 @@ sudo ./configure
 sudo make
 sudo make install
 ```
+## Running eSim and Ngspice
+
+### eSim Schematic of inverter example
+![image](https://user-images.githubusercontent.com/58599984/137801190-d231140f-d7cc-4d09-bf5c-7ea701a569e0.png)
+### Running Ngspice
+```
+cd /avsdpll_3v3/prelayout$
+ngspice inv.cir
+```
+![image](https://user-images.githubusercontent.com/58599984/137800719-4022e45d-580d-4491-8d1c-2bd0842b61f3.png)
+### Output Waveforms
+![image](https://user-images.githubusercontent.com/58599984/137800823-dfd01f99-bffb-4a99-9d9d-e8d466ae1ba2.png)
+
+
 
 
 
