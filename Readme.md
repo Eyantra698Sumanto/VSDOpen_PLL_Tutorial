@@ -144,11 +144,11 @@ I would like to thank Mr.Kunal Ghosh and Mr. Paras Gidd for the tutorial explain
 
 # References
 https://www.vlsisystemdesign.com/registration/<br>
-https://vsdiat.com/
-https://github.com/parasgidd/avsdpll_3v3
-https://www.virtualbox.org/
-http://opencircuitdesign.com/magic/download.html
-https://esim.fossee.in/downloads
+https://vsdiat.com/<br>
+https://github.com/parasgidd/avsdpll_3v3<br>
+https://www.virtualbox.org/<br>
+http://opencircuitdesign.com/magic/download.html<br>
+https://esim.fossee.in/downloads<br>
 https://www.electronics-notes.com/articles/radio/pll-phase-locked-loop/tutorial-primer-basics.php
 
 
