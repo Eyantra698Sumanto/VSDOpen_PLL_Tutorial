@@ -97,7 +97,7 @@ ngspice inv.cir
 ![image](https://user-images.githubusercontent.com/58599984/137803560-d809fcaf-de56-4957-8956-ceca47224643.png)
 ![image](https://user-images.githubusercontent.com/58599984/137803604-0f6e51ae-66e5-471c-8358-9bc270c9c51e.png)
 
-# Physical Design Introduction
+# Physical Design
 ## Layout of Inverter
 Run the following command to open Magic:
 ```
