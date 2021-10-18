@@ -64,6 +64,22 @@ ngspice inv.cir
 ### Output Waveforms
 ![image](https://user-images.githubusercontent.com/58599984/137800823-dfd01f99-bffb-4a99-9d9d-e8d466ae1ba2.png)
 
+## Prelayout
+### PFD Design
+![image](https://user-images.githubusercontent.com/58599984/137802291-905fe5c0-c849-476d-b887-3892ba66a1f9.png)
+
+### Charge Pump 
+![image](https://user-images.githubusercontent.com/58599984/137802034-14a9f0f7-fcc7-4cfe-ad53-17594d4c8283.png)
+
+### VCO
+![image](https://user-images.githubusercontent.com/58599984/137802397-405da180-9bdd-439b-ac85-f7fb59a12b76.png)
+
+### freq_div
+![image](https://user-images.githubusercontent.com/58599984/137803268-58e658e0-c078-486b-b16b-d5c16d28d823.png)
+
+### PLL Prelayout
+
+
 
 
 
