@@ -149,13 +149,13 @@ magic -T SCN6M_SUBM.10.tech
 I would like to thank Mr.Kunal Ghosh and Mr. Paras Gidd for the tutorial explained in the simplest way possible. It helped me to learn more about the PLL and layout design and simulations using Magic and Ngspice in a very easy and structured manner. 
 
 # References
-https://www.vlsisystemdesign.com/registration/<br>
-https://vsdiat.com/<br>
-https://github.com/parasgidd/avsdpll_3v3<br>
-https://www.virtualbox.org/<br>
-http://opencircuitdesign.com/magic/download.html<br>
-https://esim.fossee.in/downloads<br>
-https://www.electronics-notes.com/articles/radio/pll-phase-locked-loop/tutorial-primer-basics.php
+1. https://www.vlsisystemdesign.com/registration/<br>
+2. https://vsdiat.com/<br>
+3. https://github.com/parasgidd/avsdpll_3v3<br>
+4. https://www.virtualbox.org/<br>
+5. http://opencircuitdesign.com/magic/download.html<br>
+6. https://esim.fossee.in/downloads<br>
+7. https://www.electronics-notes.com/articles/radio/pll-phase-locked-loop/tutorial-primer-basics.php
 
 
 
