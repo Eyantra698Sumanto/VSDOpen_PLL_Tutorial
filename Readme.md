@@ -27,7 +27,8 @@ Follow the steps hereafter.
 After complete installation the Ubuntu window looks like this:
 ![image](https://user-images.githubusercontent.com/58599984/137799601-0bc2c1de-46ff-4fdc-9650-45f808ed0766.png)
 
-## Install Git
+## Installations
+### Git
 Open terminal and run:
 ```
 sudo apt-get install git
@@ -36,6 +37,20 @@ Then do:
 ```
 git clone https://github.com/parasgidd/avsdpll_3v3.git
 ```
+
+## eSim
+Install eSim and foolow steps from here:
+https://esim.fossee.in/downloads
+
+## Magic
+Run following Commands in the terminal:
+git clone git://opencircuitdesign.com/magic
+'''
+cd magic
+sudo ./configure
+sudo make
+sudo make install
+'''
 
 
 
