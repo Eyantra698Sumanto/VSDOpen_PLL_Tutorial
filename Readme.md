@@ -6,6 +6,8 @@ This repo contain all my documentation of the  "VSD Open PLL tutorial"
 The phase locked loop take in a signal to which it locks and can then output this signal from its own internal VCO. At first sight this may not appear particularly useful, but with a little ingenuity, it is possible to develop a large number of phase locked loop applications.
 
 # Block Diagram of PLL
+![image](https://user-images.githubusercontent.com/58599984/137809342-e1060500-660e-4212-951b-47adc9b06ff0.png)
+
 # Literature review and architecture design theory points
 1. Design of Analog CMOS Integrated Circuits Behzad Razavi
 2. Design of CMOS Phase Locked Loops Behzad Razavi
@@ -139,6 +141,15 @@ magic -T SCN6M_SUBM.10.tech
 
 # Acknowlegment
 I would like to thank Mr.Kunal Ghosh and Mr. Paras Gidd for the tutorial explained in the simplest way possible. It helped me to learn more about the PLL and layout design and simulations using Magic and Ngspice in a very easy and structured manner. 
+
+# References
+https://www.vlsisystemdesign.com/registration/
+https://vsdiat.com/
+https://github.com/parasgidd/avsdpll_3v3
+https://www.virtualbox.org/
+http://opencircuitdesign.com/magic/download.html
+https://esim.fossee.in/downloads
+https://www.electronics-notes.com/articles/radio/pll-phase-locked-loop/tutorial-primer-basics.php
 
 
 
