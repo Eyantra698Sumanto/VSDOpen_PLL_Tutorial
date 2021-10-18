@@ -143,7 +143,7 @@ magic -T SCN6M_SUBM.10.tech
 I would like to thank Mr.Kunal Ghosh and Mr. Paras Gidd for the tutorial explained in the simplest way possible. It helped me to learn more about the PLL and layout design and simulations using Magic and Ngspice in a very easy and structured manner. 
 
 # References
-https://www.vlsisystemdesign.com/registration/
+https://www.vlsisystemdesign.com/registration/<br>
 https://vsdiat.com/
 https://github.com/parasgidd/avsdpll_3v3
 https://www.virtualbox.org/
