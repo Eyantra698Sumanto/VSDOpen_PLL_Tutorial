@@ -10,8 +10,8 @@ This repo contain all my documentation of the  "VSD Open On-Chip Clock Multiplie
 - [Setting up Linux Environment](#setting-up-linux-environment)
 - [Installations](#installations)
   * [Git](#git)
-- [eSim](#esim)
-- [Magic](#magic)
+  * [eSim](#esim)
+*  [Magic](#magic)
 - [Running eSim and Ngspice](#running-esim-and-ngspice)
   * [eSim Schematic of inverter example](#esim-schematic-of-inverter-example)
   * [Running Ngspice](#running-ngspice)
@@ -76,11 +76,11 @@ Then do:
 git clone https://github.com/parasgidd/avsdpll_3v3.git
 ```
 
-# eSim
+## eSim
 Install eSim and follow steps from here:
 https://esim.fossee.in/downloads
 
-# Magic
+## Magic
 Run following Commands in the terminal:
 git clone git://opencircuitdesign.com/magic
 ```
