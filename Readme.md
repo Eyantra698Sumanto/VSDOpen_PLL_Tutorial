@@ -1,5 +1,5 @@
 # VSD Open PLL Workshop
-This repo contain all my documentation of the workshop "VSD Open PLL Workshop"
+This repo contain all my documentation of the  "VSD Open PLL tutorial"
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 # Introduction
@@ -105,9 +105,15 @@ magic -T SCN6M_SUBM.10.tech
 
 ## Layout of PFD
 ![image](https://user-images.githubusercontent.com/58599984/137805430-9c634f42-baca-4add-b448-5c845f06b344.png)
+![image](https://user-images.githubusercontent.com/58599984/137807859-dbc755d1-730c-4431-bb40-1aca5880c734.png)
+![image](https://user-images.githubusercontent.com/58599984/137807827-86f6ce04-5dc0-4848-aa8d-9f7ffa7a1f86.png)
+
 
 ## Layout of VCO
 ![image](https://user-images.githubusercontent.com/58599984/137805522-cda4d825-74c4-48ad-82c4-a6ee3a0d463c.png)
+![image](https://user-images.githubusercontent.com/58599984/137807663-ac48bbf3-63e7-4ab8-a6ae-8ab6aefc3194.png)
+![image](https://user-images.githubusercontent.com/58599984/137807626-a60550b6-363e-4f21-af4e-a2d4d8cbf64d.png)
+
 
 ## Layout of FreqDiv2
 ![image](https://user-images.githubusercontent.com/58599984/137805598-fbef718b-496c-409a-9ed5-9c768628f028.png)
@@ -121,10 +127,18 @@ magic -T SCN6M_SUBM.10.tech
 ![image](https://user-images.githubusercontent.com/58599984/137806882-601a216c-de48-4942-b68e-d6f786395147.png)
 
 
-
-
-## Layout of mux
+## Layout of mux21
 ![image](https://user-images.githubusercontent.com/58599984/137805764-7e073d29-ccb9-4744-bd42-84d0683a5eae.png)
+![image](https://user-images.githubusercontent.com/58599984/137807540-fefee4f7-1f49-4bfd-959a-3c8d6c81f11e.png)
+![image](https://user-images.githubusercontent.com/58599984/137807514-1532f8fe-bda1-4b0f-a29e-1fbc2ba27965.png)
+
+## Final Layout of PLL
+![image](https://user-images.githubusercontent.com/58599984/137808002-3792ab3e-71d8-4a63-9fac-dfc1fa886a32.png)
+![image](https://user-images.githubusercontent.com/58599984/137808639-e36c0650-7b18-49ea-bc2c-0bd01f3314eb.png)
+![image](https://user-images.githubusercontent.com/58599984/137808602-2fd6ce43-60f0-44b5-8d54-451f3bbc539b.png)
+
+
+
 
 
 
