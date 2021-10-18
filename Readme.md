@@ -11,7 +11,7 @@ This repo contain all my documentation of the  "VSD Open On-Chip Clock Multiplie
 - [Installations](#installations)
   * [Git](#git)
   * [eSim](#esim)
-*  [Magic](#magic)
+  *  [Magic](#magic)
 - [Running eSim and Ngspice](#running-esim-and-ngspice)
   * [eSim Schematic of inverter example](#esim-schematic-of-inverter-example)
   * [Running Ngspice](#running-ngspice)
