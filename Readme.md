@@ -44,7 +44,7 @@ git clone https://github.com/parasgidd/avsdpll_3v3.git
 ```
 
 # eSim
-Install eSim and foolow steps from here:
+Install eSim and follow steps from here:
 https://esim.fossee.in/downloads
 
 # Magic
