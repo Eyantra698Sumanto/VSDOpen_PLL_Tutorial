@@ -45,12 +45,12 @@ https://esim.fossee.in/downloads
 ## Magic
 Run following Commands in the terminal:
 git clone git://opencircuitdesign.com/magic
-'''
+```
 cd magic
 sudo ./configure
 sudo make
 sudo make install
-'''
+```
 
 
 
