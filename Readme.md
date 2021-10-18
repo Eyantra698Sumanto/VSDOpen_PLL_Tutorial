@@ -29,12 +29,13 @@ After complete installation the Ubuntu window looks like this:
 
 ## Install Git
 Open terminal and run:
-'''
+```
 sudo apt-get install git
-'''
+```
 Then do:
+```
 git clone https://github.com/parasgidd/avsdpll_3v3.git
-'''
+```
 
 
 
