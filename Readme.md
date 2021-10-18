@@ -1,7 +1,40 @@
-# VSD Open PLL Workshop
-This repo contain all my documentation of the  "VSD Open PLL tutorial"
+# VSD Open On-Chip Clock Multiplier (PLL) on OSU180
+This repo contain all my documentation of the  "VSD Open On-Chip Clock Multiplier (PLL) on OSU180"
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
+# Contents
+- [Introduction](#introduction)
+- [Block Diagram of PLL](#block-diagram-of-pll)
+- [Literature review and architecture design theory points](#literature-review-and-architecture-design-theory-points)
+- [Theory and Fundamental Concepts](#theory-and-fundamental-concepts)
+- [Setting up Linux Environment](#setting-up-linux-environment)
+- [Installations](#installations)
+  * [Git](#git)
+- [eSim](#esim)
+- [Magic](#magic)
+- [Running eSim and Ngspice](#running-esim-and-ngspice)
+  * [eSim Schematic of inverter example](#esim-schematic-of-inverter-example)
+  * [Running Ngspice](#running-ngspice)
+  * [Output Waveforms](#output-waveforms)
+- [Prelayout](#prelayout)
+  * [PFD Design](#pfd-design)
+  * [Charge Pump](#charge-pump)
+  * [VCO](#vco)
+  * [freq_div](#freq-div)
+  * [PLL Prelayout](#pll-prelayout)
+- [Physical Design](#physical-design)
+  * [Layout of Inverter](#layout-of-inverter)
+  * [Layout of PFD](#layout-of-pfd)
+  * [Layout of VCO](#layout-of-vco)
+  * [Layout of FreqDiv2](#layout-of-freqdiv2)
+  * [Layout of FreqDiv8](#layout-of-freqdiv8)
+  * [Layout of mux21](#layout-of-mux21)
+  * [Final Layout of PLL](#final-layout-of-pll)
+- [Acknowlegment](#acknowlegment)
+- [References](#references)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 # Introduction
 The phase locked loop take in a signal to which it locks and can then output this signal from its own internal VCO. At first sight this may not appear particularly useful, but with a little ingenuity, it is possible to develop a large number of phase locked loop applications.
 
