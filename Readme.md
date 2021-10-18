@@ -137,7 +137,13 @@ magic -T SCN6M_SUBM.10.tech
 ## Final Layout of PLL
 ![image](https://user-images.githubusercontent.com/58599984/137808002-3792ab3e-71d8-4a63-9fac-dfc1fa886a32.png)
 ![image](https://user-images.githubusercontent.com/58599984/137808639-e36c0650-7b18-49ea-bc2c-0bd01f3314eb.png)
-![image](https://user-images.githubusercontent.com/58599984/137808602-2fd6ce43-60f0-44b5-8d54-451f3bbc539b.png)
+![image](https://user-images.githubusercontent.com/58599984/137810247-91623d29-4dd7-4f60-89f7-e19cb99e362d.png)
+
+![image](https://user-images.githubusercontent.com/58599984/137810210-55674103-460b-4b67-bb56-675d14b9136b.png)
+
+![image](https://user-images.githubusercontent.com/58599984/137810183-5e484849-894b-4c17-a705-3b7bdff30f94.png)
+
+![image](https://user-images.githubusercontent.com/58599984/137810124-de262a92-f1fb-4f1f-840b-85c61d5883d3.png)
 
 # Acknowlegment
 I would like to thank Mr.Kunal Ghosh and Mr. Paras Gidd for the tutorial explained in the simplest way possible. It helped me to learn more about the PLL and layout design and simulations using Magic and Ngspice in a very easy and structured manner. 
