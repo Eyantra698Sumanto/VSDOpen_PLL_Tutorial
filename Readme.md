@@ -67,17 +67,32 @@ ngspice inv.cir
 ## Prelayout
 ### PFD Design
 ![image](https://user-images.githubusercontent.com/58599984/137802291-905fe5c0-c849-476d-b887-3892ba66a1f9.png)
+![image](https://user-images.githubusercontent.com/58599984/137804175-ec5c3a96-ce5b-43b6-9acf-7a042b6f0c5d.png)
+
+![image](https://user-images.githubusercontent.com/58599984/137803982-d01ec0cc-3009-453c-84b0-a5d5759f27a4.png)
+
 
 ### Charge Pump 
 ![image](https://user-images.githubusercontent.com/58599984/137802034-14a9f0f7-fcc7-4cfe-ad53-17594d4c8283.png)
+![image](https://user-images.githubusercontent.com/58599984/137804127-4431757f-2ca6-4188-99bb-141bea372b68.png)
+![image](https://user-images.githubusercontent.com/58599984/137804085-c42f68ab-2ab4-4184-9539-b675fa68d82a.png)
+
 
 ### VCO
 ![image](https://user-images.githubusercontent.com/58599984/137802397-405da180-9bdd-439b-ac85-f7fb59a12b76.png)
+![image](https://user-images.githubusercontent.com/58599984/137803903-f62f837a-1985-4b21-b3d1-16c47af1e5f2.png)
+![image](https://user-images.githubusercontent.com/58599984/137803841-25743fa1-f2ab-47a2-94a9-78194b6b8c6d.png)
 
 ### freq_div
 ![image](https://user-images.githubusercontent.com/58599984/137803268-58e658e0-c078-486b-b16b-d5c16d28d823.png)
+![image](https://user-images.githubusercontent.com/58599984/137803693-2758d866-10fe-4020-972d-23ebd89a1095.png)
+![image](https://user-images.githubusercontent.com/58599984/137803737-4fdee911-eb47-4646-8dff-2f8c21d67e7b.png)
+
 
 ### PLL Prelayout
+![image](https://user-images.githubusercontent.com/58599984/137803560-d809fcaf-de56-4957-8956-ceca47224643.png)
+![image](https://user-images.githubusercontent.com/58599984/137803604-0f6e51ae-66e5-471c-8358-9bc270c9c51e.png)
+
 
 
 
