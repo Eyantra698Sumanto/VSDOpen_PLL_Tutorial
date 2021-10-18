@@ -101,6 +101,30 @@ magic -T SCN6M_SUBM.10.tech
 ```
 ![image](https://user-images.githubusercontent.com/58599984/137804925-456124c5-572c-4967-aac0-be0c58751d5c.png)
 
+### Layout of PFD
+![image](https://user-images.githubusercontent.com/58599984/137805430-9c634f42-baca-4add-b448-5c845f06b344.png)
+
+### Layout of VCO
+![image](https://user-images.githubusercontent.com/58599984/137805522-cda4d825-74c4-48ad-82c4-a6ee3a0d463c.png)
+
+### Layout of FreqDiv2
+![image](https://user-images.githubusercontent.com/58599984/137805598-fbef718b-496c-409a-9ed5-9c768628f028.png)
+![image](https://user-images.githubusercontent.com/58599984/137806722-d288680e-531a-4699-a1ee-4aee5b713a9b.png)
+![image](https://user-images.githubusercontent.com/58599984/137806676-9c7a4cb8-e5f1-4171-aa4f-d469b09a9c23.png)
+
+
+### Layout of FreqDiv8
+![image](https://user-images.githubusercontent.com/58599984/137805681-dd68d1d5-dd36-471f-b9d9-44bd924e47bc.png)
+![image](https://user-images.githubusercontent.com/58599984/137806952-15c646bf-e746-48da-82ec-2a9eb953c381.png)
+![image](https://user-images.githubusercontent.com/58599984/137806882-601a216c-de48-4942-b68e-d6f786395147.png)
+
+
+
+
+### Layout of mux
+![image](https://user-images.githubusercontent.com/58599984/137805764-7e073d29-ccb9-4744-bd42-84d0683a5eae.png)
+
+
 
 
 
